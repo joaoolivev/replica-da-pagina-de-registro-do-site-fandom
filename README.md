@@ -1,0 +1,1 @@
+# replica-da-pagina-de-registro-do-site-fandom

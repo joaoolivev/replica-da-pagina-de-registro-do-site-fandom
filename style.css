@@ -13,6 +13,10 @@ body {
 /* HEADER */
 .top {
     background: linear-gradient(90deg, #7a004f, #a0005a);
+    background-image:url(branding_background.c0ec82a7.png);
+    background-repeat:repeat;
+    background-size: 382px;
+    background-color:#520044;
     padding: 50px 20px;
     text-align: center;
     color: white;
